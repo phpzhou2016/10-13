@@ -1,0 +1,30 @@
+@charset "utf-8";
+h3,div.start,div.reg, div.login{
+    margin:20px;
+    text-align: center;
+    color:red;
+    height:200px;
+
+
+}
+#inp{
+
+    background-color: #ccc;
+    width: 150px;
+    height: 30px;
+}
+body{
+    background-image: url(img/2222.jpg);
+}
+#login{
+    width: 80px;
+    height: 30px;
+    margin: auto;
+}
+#reg{
+    background-color: #ccc;
+    width: 150px;
+    height: 30px;
+    margin: auto;
+    display: inline;
+}
