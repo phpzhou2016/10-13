@@ -18,7 +18,7 @@ class Login extends User{
         public function _query()
         {
 
-            if(!$link=mysqli_connect('localhost','root','191977941','te_2016')){
+            if(!$link=mysqli_connect('localhost','root','','te_2016')){
                 echo "连接错误";
             }
            // mysqli_select_db($link,'te_2016');
